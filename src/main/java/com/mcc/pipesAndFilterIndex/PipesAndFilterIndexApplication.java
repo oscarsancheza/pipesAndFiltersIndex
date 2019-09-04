@@ -59,6 +59,6 @@ public class PipesAndFilterIndexApplication {
 
   public static void main(String[] args) {
     PipesAndFilterIndexApplication app = new PipesAndFilterIndexApplication();
-    app.executeFinder(System.out::println);
+    app.executeKeyWordsGenerator(System.out::println);
   }
 }

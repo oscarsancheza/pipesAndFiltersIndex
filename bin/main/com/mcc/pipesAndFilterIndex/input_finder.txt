@@ -1,0 +1,7 @@
+Software architecture
+development view
+cases
+Logical Architecture
+Architecture
+Development
+release strategies
